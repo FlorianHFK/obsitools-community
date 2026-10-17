@@ -2,6 +2,8 @@
 
 ![OBSITOOLS — Windows · BILL · Audio · AI](media/obsitools-banner.svg)
 
+<img src="media/obsitools-logo-premium.png" alt="OBSITOOLS — logo officiel premium" width="470">
+
 <img src="https://obsitools.com/assets/brand/obsitools_emblem_1000.webp" alt="Emblème OBSITOOLS" width="76">
 
 ### LE CENTRE DE CONTRÔLE WINDOWS. LA CRÉATION. L'INTELLIGENCE.
