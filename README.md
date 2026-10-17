@@ -65,25 +65,50 @@ La plateforme conserve deux expériences complémentaires : **Ultimate_V2 / Web 
 
 ## Le produit en images
 
-**Des captures authentiques d'interfaces de développement**, pas des maquettes marketing. Cliquez sur les images pour les agrandir.
+**Captures authentiques des interfaces de développement.** Certaines proviennent de versions antérieures ; elles montrent des interfaces réelles, pas des maquettes marketing. Les vues principales sont présentées en grand format pour faciliter leur lecture. Cliquez sur chaque image pour ouvrir le fichier original.
+
+### 01 — HOME / Cockpit central
 
 <div align="center">
-<a href="media/screenshots/01-home-bill.webp"><img src="media/screenshots/01-home-bill.webp" alt="Capture réelle d'OBSITOOLS — cockpit central HOME et interface du cerveau" width="100%"></a>
-<br><sub>01 / HOME — cockpit central &amp; espace BILL</sub>
+<a href="media/screenshots/01-home-bill.webp"><img src="media/screenshots/01-home-bill.webp" width="100%" alt="Capture de développement du cockpit HOME et de l'espace assistant historique"></a>
+<sub>Interface de développement — le nom et les comportements du cerveau sont en cours de consolidation sous BILL.</sub>
 </div>
+
+### 02 — ATLAS / Navigation et exploration
+
+<div align="center">
+<a href="media/screenshots/02-atlas-galaxy.webp"><img src="media/screenshots/02-atlas-galaxy.webp" width="100%" alt="Capture réelle du workspace ATLAS Galaxy"></a>
+<sub>Exploration de l'environnement OBSITOOLS et navigation entre ressources.</sub>
+</div>
+
+### 03 — AUDIO-STUDIO / Création sonore
+
+<div align="center">
+<a href="media/screenshots/03-mao-studio.webp"><img src="media/screenshots/03-mao-studio.webp" width="100%" alt="Capture réelle du workspace AUDIO-STUDIO et de son interface MAO"></a>
+<sub>Interface audio en développement ; les capacités ne sont pas toutes livrées ou vérifiées dans le même état.</sub>
+</div>
+
+### 04 — WINDOWS CONTROL / Inspection système
+
+<div align="center">
+<a href="media/screenshots/04-windows-control.webp"><img src="media/screenshots/04-windows-control.webp" width="100%" alt="Capture réelle du workspace Windows Control"></a>
+<sub>Vue système et outils de contrôle Windows.</sub>
+</div>
+
+### Autres espaces du produit
 
 <table>
 <tr>
-<td width="50%" align="center"><a href="media/screenshots/02-atlas-galaxy.webp"><img src="media/screenshots/02-atlas-galaxy.webp" alt="Capture réelle du workspace ATLAS Galaxy" width="100%"></a><br><strong>ATLAS / Exploration</strong></td>
-<td width="50%" align="center"><a href="media/screenshots/03-mao-studio.webp"><img src="media/screenshots/03-mao-studio.webp" alt="Capture réelle du workspace AUDIO-STUDIO" width="100%"></a><br><strong>AUDIO-STUDIO / Création</strong></td>
+<td align="center" width="50%"><a href="media/screenshots/05-cosmos-electro.webp"><img src="media/screenshots/05-cosmos-electro.webp" width="100%" alt="Capture de COSMOS ELECTRO"></a><br><strong>COSMOS / Electro</strong></td>
+<td align="center" width="50%"><a href="media/screenshots/06-ai-lab.webp"><img src="media/screenshots/06-ai-lab.webp" width="100%" alt="Capture d'AI-LAB"></a><br><strong>AI-LAB / Intelligence</strong></td>
 </tr>
 <tr>
-<td width="50%" align="center"><a href="media/screenshots/04-windows-control.webp"><img src="media/screenshots/04-windows-control.webp" alt="Capture réelle du workspace Windows Control" width="100%"></a><br><strong>WINDOWS / Contrôle</strong></td>
-<td width="50%" align="center"><a href="media/screenshots/06-ai-lab.webp"><img src="media/screenshots/06-ai-lab.webp" alt="Capture réelle du workspace AI-LAB" width="100%"></a><br><strong>AI-LAB / Intelligence</strong></td>
+<td align="center" width="50%"><a href="media/screenshots/07-atlas-universe.webp"><img src="media/screenshots/07-atlas-universe.webp" width="100%" alt="Capture d'ATLAS Universe"></a><br><strong>ATLAS / Universe</strong></td>
+<td align="center" width="50%"><a href="media/screenshots/08-neurone-lab.webp"><img src="media/screenshots/08-neurone-lab.webp" width="100%" alt="Capture de NEURONE LAB"></a><br><strong>NEURONE LAB</strong></td>
 </tr>
 </table>
 
-> **Transparence visuelle :** certaines captures montrent des versions historiques et des mentions **ORBYSS**. Elles n'attestent pas, à elles seules, que toutes les fonctions présentées sont aujourd'hui livrées ou validées dans BILL.
+> **Transparence visuelle :** certaines captures montrent des versions historiques, notamment le nom **ORBYSS**. **BILL** est le nom actuel du cerveau du produit. Une capture ne prouve ni la disponibilité publique, ni la validation fonctionnelle de tous les éléments qu'elle affiche.
 
 ## Une ambition exigeante, une livraison progressive.
 
