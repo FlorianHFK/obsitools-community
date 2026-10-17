@@ -2,6 +2,10 @@
 
 🌍 **[English — README](./README.en.md) · [English website](./en/index.html) · [Français — site](./index.html)**
 
+> **BÊTA OBSITOOLS NON DISPONIBLE — aucun téléchargement public ni accès bêta ouvert à ce jour.** Le site officiel peut encore afficher des annonces anciennes ; elles ne constituent pas une ouverture de la bêta.
+
+🌐 [Site officiel OBSITOOLS](https://obsitools.com/)
+
 > **Un projet indépendant. Une plateforme ambitieuse. Une communauté de bâtisseurs à réunir.**
 
 **OBSITOOLS** est un projet logiciel Windows en cours de développement. Son ambition : rapprocher des univers aujourd'hui séparés — administration système, outils d'ingénierie, création musicale, automatisation et intelligence artificielle — dans une expérience cohérente et maîtrisable.
