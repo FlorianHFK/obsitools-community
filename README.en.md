@@ -24,7 +24,7 @@ At its center is **BILL**, a sovereign intelligence system under development. Th
 We'd love to meet developers and contributors interested in Python, JavaScript, native Windows development, software architecture, security engineering, DSP/music technology, UI/UX, automated testing or documentation.
 
 You can:
-1. [Suggest a practical idea](../../issues/new/choose) or provide constructive feedback.
+1. [Suggest a practical idea](https://github.com/FlorianHFK/obsitools-community/issues/new/choose) or provide constructive feedback.
 2. Reach out with your interests and relevant experience at **dev@obsitools.com**.
 3. Discuss a realistic, independently scoped contribution before sharing code.
 
