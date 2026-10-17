@@ -1,5 +1,9 @@
 # OBSITOOLS — Build what comes next
 
+**OBSITOOLS BETA IS NOT AVAILABLE YET.** There is no public beta download or open beta access at this time. Any older beta announcements on the official website should not be interpreted as an active release.
+
+🌐 [Official OBSITOOLS website](https://obsitools.com/)
+
 **An independent project. An ambitious software platform. A community of builders in the making.**
 
 **[English website](./en/index.html)** · **[Version française](./index.html)** · **[Public vision (FR)](./VISION_PUBLIQUE.md)** · **[Contribution guide (FR)](./CONTRIBUTING.md)**
