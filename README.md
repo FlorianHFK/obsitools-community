@@ -1,5 +1,7 @@
 # OBSITOOLS — Build what comes next
 
+🌍 **[English — README](./README.en.md) · [English website](./en/index.html) · [Français — site](./index.html)**
+
 > **Un projet indépendant. Une plateforme ambitieuse. Une communauté de bâtisseurs à réunir.**
 
 **OBSITOOLS** est un projet logiciel Windows en cours de développement. Son ambition : rapprocher des univers aujourd'hui séparés — administration système, outils d'ingénierie, création musicale, automatisation et intelligence artificielle — dans une expérience cohérente et maîtrisable.
