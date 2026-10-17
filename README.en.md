@@ -4,7 +4,7 @@
 
 ### ONE PC. MULTIPLE WORLDS. INTELLIGENCE THAT CONNECTS THEM.
 
-**OBSITOOLS explores a different way to work on Windows:****understand, create, experiment and take control — in one connected environment.**
+**OBSITOOLS explores a different way to work on Windows: understand, create, experiment and take control — in one connected environment.**
 
 [**EXPLORE THE EXPERIENCE ↗**](https://florianhfk.github.io/obsitools-community/en/) &nbsp; · &nbsp; [**SEE THE PRODUCT ↓**](#the-product-in-pictures) &nbsp; · &nbsp; [**FRANÇAIS ↗**](README.md)
 
