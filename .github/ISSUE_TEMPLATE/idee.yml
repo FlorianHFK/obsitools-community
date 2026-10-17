@@ -1,0 +1,26 @@
+name: Idée / proposition
+description: Proposer un usage ou une amélioration du projet communautaire
+body:
+  - type: markdown
+    attributes:
+      value: "Merci ! Ne partagez pas d'architecture confidentielle, de données personnelles ou de code propriétaire."
+  - type: textarea
+    id: probleme
+    attributes:
+      label: Problème ou besoin
+      description: Quel problème concret souhaites-tu résoudre ?
+      placeholder: Décrire la situation utilisateur
+    validations:
+      required: true
+  - type: textarea
+    id: proposition
+    attributes:
+      label: Résultat souhaité
+      description: Décrire ce que la fonctionnalité devrait permettre, pas une implémentation interne imposée.
+    validations:
+      required: true
+  - type: textarea
+    id: benefice
+    attributes:
+      label: Utilisateurs concernés
+      description: Pour qui ce serait utile, et pourquoi ?
