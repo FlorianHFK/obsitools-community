@@ -17,9 +17,9 @@
 
 ## Ce n'est pas un concept. C'est un logiciel en construction.
 
-Un environnement Windows indépendant, local-first, qui réunit le contrôle système, la création musicale, l'intelligence artificielle, la production et l'ingénierie. **Des interfaces et des moteurs existent déjà** ; leur niveau d'intégration et de vérification varie selon les modules.
+**OBSITOOLS est une suite logicielle Windows local-first en développement** : diagnostic et contrôle Windows, intelligence artificielle locale avec **BILL**, studio audio/MAO, création multimédia, automatisation et outils d'ingénierie. **Des interfaces et des moteurs existent déjà**, avec des niveaux d'intégration et de vérification différents selon les modules.
 
-Le but : **un seul produit**, plutôt qu'une pile d'utilitaires qui ne se parlent pas.
+Découvrez les **[captures réelles](#obsitools-en-images)**, consultez la **[roadmap publique](ROADMAP_PUBLIQUE.md)** et le **[statut de développement](STATUT_PUBLIC.md)**. L'objectif : **un environnement cohérent**, plutôt qu'une pile d'utilitaires indépendants.
 
 ## OBSITOOLS en images
 
