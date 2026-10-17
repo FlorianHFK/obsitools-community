@@ -1,171 +1,115 @@
 <div align="center">
 
-<img src="media/obsitools-banner.svg" alt="OBSITOOLS — Windows, Audio, Intelligence" width="100%">
+<img src="media/obsitools-hero-premium.webp" alt="OBSITOOLS — emblème et signature officiels. Windows. Audio. Intelligence." width="100%">
 
-<br>
+### UN PC. DES UNIVERS. UNE INTELLIGENCE QUI LES RELIE.
 
-### UNE PLATEFORME. PLUSIEURS UNIVERS. UN CERVEAU SOUVERAIN.
+**OBSITOOLS imagine une autre manière de travailler sur Windows :****comprendre, créer, expérimenter et maîtriser — depuis un seul environnement.**
 
-**Le centre de contrôle Windows rencontre la création, l'ingénierie et l'intelligence.**  
-Une application indépendante, ambitieuse et conçue pour ceux qui veulent aller plus loin avec leur machine.
+[**DÉCOUVRIR L’EXPÉRIENCE ↗**](https://florianhfk.github.io/obsitools-community/) &nbsp; · &nbsp; [**VOIR LE PRODUIT ↓**](#le-produit-en-images) &nbsp; · &nbsp; [**ENGLISH ↗**](README.en.md)
 
-<br>
-
-[**DÉCOUVRIR OBSITOOLS ↗**](https://florianhfk.github.io/obsitools-community/) &nbsp; · &nbsp; [**VOIR LES CAPTURES ↓**](#obsitools-en-images) &nbsp; · &nbsp; [**ENGLISH ↗**](README.en.md)
-
-<br>
-
-<sub>WINDOWS CONTROL &nbsp; / &nbsp; BILL &nbsp; / &nbsp; AUDIO-STUDIO &nbsp; / &nbsp; ATLAS &nbsp; / &nbsp; AI-LAB &nbsp; / &nbsp; CREATIVE &nbsp; / &nbsp; FORGE</sub>
+<sub>APPLICATION WINDOWS INDÉPENDANTE &nbsp; · &nbsp; LOCAL-FIRST &nbsp; · &nbsp; DÉVELOPPEMENT EN COURS</sub>
 
 </div>
 
 ---
 
 > [!IMPORTANT]
-> **OBSITOOLS est en développement.** La bêta publique n'est pas ouverte et aucun téléchargement public n'est disponible à ce stade. Ce dépôt est sa **vitrine communautaire**, pas le code source de l'application. Les fonctionnalités présentées n'ont pas toutes le même niveau de maturité.
+> **OBSITOOLS n'est pas encore disponible au téléchargement.** La bêta publique n'est pas ouverte. Cette page présente la vision du produit et des interfaces issues de versions de développement ; les capacités n'ont pas toutes atteint le même niveau de maturité. Ce dépôt est **la vitrine communautaire**, pas le code source propriétaire.
 
-## Bien plus qu'une boîte à outils Windows
+## Ce n'est pas un utilitaire Windows de plus.
 
-La plupart des logiciels se limitent à un métier. OBSITOOLS explore une autre voie : **réunir la puissance des outils spécialisés dans un environnement cohérent**, sans sacrifier leur profondeur.
+**Et si votre ordinateur cessait d'être une juxtaposition d'outils sans lien ?**
 
-Diagnostic Windows, production audio, exploration de ressources, expérimentation IA, création et ingénierie : des domaines différents, **une même station de travail**.
+OBSITOOLS est une plateforme de travail pour Windows qui fait converger des mondes généralement séparés : diagnostic et contrôle du système, production audio, exploration de ressources, IA locale, création et ingénierie.
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<h3>01 / Contrôle</h3>
-Comprendre Windows, observer les ressources, diagnostiquer et intervenir avec des permissions explicites.
-</td>
-<td width="33%" valign="top">
-<h3>02 / Création</h3>
-Composer, expérimenter, traiter le son et explorer des workflows créatifs spécialisés.
-</td>
-<td width="33%" valign="top">
-<h3>03 / Intelligence</h3>
-Relier contexte, connaissance et capacités autour de BILL, le cerveau central du produit.
-</td>
-</tr>
-</table>
+L'objectif n'est pas de remplacer chaque logiciel spécialisé par une interface simplifiée. C'est de leur donner **un environnement commun, une navigation cohérente et un cerveau capable d'en comprendre les usages**, tout en préservant la puissance des outils.
 
-## OBSITOOLS en images
+| **MAÎTRISER** | **CRÉER** | **EXPLORER** |
+|:--|:--|:--|
+| Comprendre Windows, ses processus, ses services et ses incidents. | Manipuler l'audio, la MAO, les signaux et les workflows créatifs. | Relier connaissances, modèles, outils et expériences sans perdre le contexte. |
+
+## BILL — pas une mascotte, le cerveau du produit.
 
 <div align="center">
-
-<a href="media/screenshots/01-home-bill.webp"><img src="media/screenshots/01-home-bill.webp" alt="OBSITOOLS — capture réelle du cockpit HOME et de BILL" width="100%"></a>
-
-<sub><strong>HOME / BILL</strong> — vue réelle d'une version de développement</sub>
-
+<img src="media/bill-cognitive-flow.svg" alt="Flux cognitif BILL : comprendre, répondre, proposer, exécuter après accord et vérifier" width="100%">
 </div>
 
-<br>
+**BILL (Brain Intelligence & Local Logic)** est conçu pour faire le lien entre l'intention de l'utilisateur et les capacités réelles d'OBSITOOLS. Sa doctrine est simple :
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-<a href="media/screenshots/02-atlas-galaxy.webp"><img src="media/screenshots/02-atlas-galaxy.webp" alt="ATLAS — exploration Galaxy" width="100%"></a>
-<br><strong>ATLAS</strong><br><sub>Explorer les univers et les ressources.</sub>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="media/screenshots/03-mao-studio.webp"><img src="media/screenshots/03-mao-studio.webp" alt="AUDIO-STUDIO — interface de production musicale" width="100%"></a>
-<br><strong>AUDIO-STUDIO</strong><br><sub>Création et production audio.</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-<a href="media/screenshots/04-windows-control.webp"><img src="media/screenshots/04-windows-control.webp" alt="WINDOWS CONTROL — cockpit Windows" width="100%"></a>
-<br><strong>WINDOWS CONTROL</strong><br><sub>Observation et maîtrise du système.</sub>
-</td>
-<td width="50%" align="center" valign="top">
-<a href="media/screenshots/06-ai-lab.webp"><img src="media/screenshots/06-ai-lab.webp" alt="AI-LAB — expérimentation IA" width="100%"></a>
-<br><strong>AI-LAB</strong><br><sub>Modèles, outils et expérimentation.</sub>
-</td>
-</tr>
-</table>
+**Comprendre d'abord → répondre si possible → proposer si utile → agir uniquement sur demande ou autorisation → vérifier.**
 
-<details>
-<summary><strong>Découvrir d'autres captures : COSMOS, ATLAS Universe et NEURONE LAB</strong></summary>
-<br>
-<table>
-<tr>
-<td width="50%" align="center"><a href="media/screenshots/05-cosmos-electro.webp"><img src="media/screenshots/05-cosmos-electro.webp" alt="COSMOS Electro" width="100%"></a><br><strong>COSMOS</strong></td>
-<td width="50%" align="center"><a href="media/screenshots/07-atlas-universe.webp"><img src="media/screenshots/07-atlas-universe.webp" alt="ATLAS Universe" width="100%"></a><br><strong>ATLAS Universe</strong></td>
-</tr>
-</table>
-<div align="center"><a href="media/screenshots/08-neurone-lab.webp"><img src="media/screenshots/08-neurone-lab.webp" alt="NEURONE LAB — environnement d'exploration" width="80%"></a><br><strong>NEURONE LAB</strong></div>
-</details>
+- **Souveraineté locale :** privilégier les composants natifs et les traitements sur le PC, sans imposer un service cloud pour chaque tâche.
+- **Intelligence extensible :** mobiliser, lorsque cela est utile et configuré, des modèles locaux ou des fournisseurs externes facultatifs.
+- **Contrôle utilisateur :** distinguer une question d'un ordre, encadrer les opérations sensibles et montrer les résultats plutôt que promettre une action invisible.
 
-<sub>**Transparence sur les visuels :** ces captures proviennent de différentes étapes réelles du développement, certaines antérieures au renommage d'ORBYSS en BILL. Elles ne prouvent pas, à elles seules, qu'un module est entièrement opérationnel. Aucune image n'est présentée comme une capture de la version finale.</sub>
+BILL reprend un patrimoine technique et cognitif développé historiquement sous le nom **ORBYSS**. Certaines captures anciennes conservent cette appellation ; **BILL est le nom actuel du cerveau du produit**. L'intégration et les validations se poursuivent.
 
----
-
-## BILL / Le cerveau au centre de l'expérience
+## Plusieurs univers. Une même plateforme.
 
 <div align="center">
-
-<img src="media/bill-cognitive-flow.svg" alt="BILL — comprendre, répondre, proposer, agir avec autorisation, vérifier" width="100%">
-
+<img src="media/obsitools-univers-2026.svg" alt="Illustration conceptuelle des univers Windows, Audio-Studio, Atlas et AI-Lab" width="100%">
+<br><sub>Illustrations conceptuelles issues du patrimoine graphique OBSITOOLS — elles ne sont pas des captures du logiciel.</sub>
 </div>
 
-**BILL — Brain Intelligence & Local Logic** est conçu pour être plus qu'une interface conversationnelle : un centre de compréhension et d'orchestration, lié aux fonctions réelles d'OBSITOOLS.
+| Univers | Ce que l'on y explore |
+|:--|:--|
+| **HOME & WINDOWS CONTROL** | Vue d'ensemble du PC, inspection système, maintenance, diagnostics et actions encadrées. |
+| **AUDIO-STUDIO & COSMOS** | Production sonore, analyse DSP, outillage MAO et explorations audio créatives. |
+| **ATLAS** | Navigation dans les espaces, ressources, outils et relations entre capacités. |
+| **AI-LAB & BILL** | Modèles locaux, fournisseurs optionnels, expérimentations IA et orchestration guidée. |
+| **CREATIVE & NEURONE LAB** | Création, pensée critique, expériences interactives et investigations intellectuelles. |
+| **FORGE & TOOLS** | Ingénierie, automatisation, analyse et essais dans des conditions contrôlées. |
 
-**Comprendre d'abord. Répondre quand c'est possible. Proposer lorsque c'est utile. Agir uniquement avec autorisation. Vérifier les résultats.**
+La plateforme conserve deux expériences complémentaires : **Ultimate_V2 / Web Premium** pour une interface moderne et **Full Python / Tkinter Powerhouse** pour les usages avancés. Elles partagent la même orientation produit et ne sont pas destinées à être fusionnées artificiellement.
 
-L'approche privilégie le **local-first**, le contrôle utilisateur et l'usage facultatif de modèles ou fournisseurs externes. Son architecture et ses capacités évoluent : **BILL n'est pas présenté ici comme une intelligence autonome générale déjà aboutie.**
+## Le produit en images
 
-## Des univers spécialisés. Une vision commune.
+**Des captures authentiques d'interfaces de développement**, pas des maquettes marketing. Cliquez sur les images pour les agrandir.
 
-| Univers | Sa vocation |
-| :--- | :--- |
-| **WINDOWS CONTROL** | Diagnostic, observation, administration et maintenance du système. |
-| **AUDIO-STUDIO / COSMOS** | Production musicale, audio, sound design et environnements créatifs. |
-| **ATLAS** | Navigation et exploration des ressources, outils et parcours. |
-| **AI-LAB** | Expérimentation de l'IA locale, des modèles et des outils associés. |
-| **CREATIVE / NEURONE LAB** | Création, expériences interactives, exploration scientifique et réflexion. |
-| **FORGE / TOOLS** | Ingénierie, automatisation et utilitaires spécialisés. |
-
-**Deux expériences complémentaires** font partie de la vision produit : **Ultimate_V2 / Web Premium** pour une interface moderne et **Full Python / Tkinter Powerhouse** pour les usages avancés. Elles ne sont pas des copies l'une de l'autre.
-
-## Un projet indépendant, une ambition assumée
-
-OBSITOOLS est construit progressivement, en privilégiant les fonctions réelles, la cohérence d'ensemble et les preuves de fonctionnement. Certains composants sont avancés ; d'autres sont encore expérimentaux ou attendent leur intégration.
-
-**Ce que nous ne faisons pas :** présenter une maquette comme une fonctionnalité terminée, annoncer une bêta fictive ou publier les sources propriétaires du cœur du produit dans ce dépôt communautaire.
+<div align="center">
+<a href="media/screenshots/01-home-bill.webp"><img src="media/screenshots/01-home-bill.webp" alt="Capture réelle d'OBSITOOLS — cockpit central HOME et interface du cerveau" width="100%"></a>
+<br><sub>01 / HOME — cockpit central &amp; espace BILL</sub>
+</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3>Explorer le projet</h3>
-<a href="VISION_PUBLIQUE.md">La vision</a><br>
-<a href="ROADMAP_PUBLIQUE.md">La feuille de route</a><br>
-<a href="STATUT_PUBLIC.md">État public et disponibilité</a><br>
-<a href="FAQ.md">Questions fréquentes</a>
-</td>
-<td width="50%" valign="top">
-<h3>Prendre part à l'aventure</h3>
-<a href="https://github.com/FlorianHFK/obsitools-community/issues">Idées et retours sur GitHub</a><br>
-<a href="CONTRIBUTING.md">Comment contribuer</a><br>
-<a href="mailto:dev@obsitools.com">Contact direct</a><br>
-<a href="https://florianhfk.github.io/obsitools-community/">Site communautaire</a>
-</td>
+<td width="50%" align="center"><a href="media/screenshots/02-atlas-galaxy.webp"><img src="media/screenshots/02-atlas-galaxy.webp" alt="Capture réelle du workspace ATLAS Galaxy" width="100%"></a><br><strong>ATLAS / Exploration</strong></td>
+<td width="50%" align="center"><a href="media/screenshots/03-mao-studio.webp"><img src="media/screenshots/03-mao-studio.webp" alt="Capture réelle du workspace AUDIO-STUDIO" width="100%"></a><br><strong>AUDIO-STUDIO / Création</strong></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="media/screenshots/04-windows-control.webp"><img src="media/screenshots/04-windows-control.webp" alt="Capture réelle du workspace Windows Control" width="100%"></a><br><strong>WINDOWS / Contrôle</strong></td>
+<td width="50%" align="center"><a href="media/screenshots/06-ai-lab.webp"><img src="media/screenshots/06-ai-lab.webp" alt="Capture réelle du workspace AI-LAB" width="100%"></a><br><strong>AI-LAB / Intelligence</strong></td>
 </tr>
 </table>
 
-## Construisons quelque chose qui compte.
+> **Transparence visuelle :** certaines captures montrent des versions historiques et des mentions **ORBYSS**. Elles n'attestent pas, à elles seules, que toutes les fonctions présentées sont aujourd'hui livrées ou validées dans BILL.
 
-Vous travaillez sur **Windows, l'audio, l'IA locale, le design d'interface, la sécurité, Python, JavaScript ou la validation logicielle** ? Vos idées, critiques constructives et échanges techniques sont les bienvenus.
+## Une ambition exigeante, une livraison progressive.
 
-Il n'est pas nécessaire d'avoir accès au code propriétaire pour participer à la discussion. Toute collaboration plus poussée doit être définie et acceptée avant engagement.
+OBSITOOLS repose sur un patrimoine logiciel déjà développé. L'effort actuel vise notamment **la consolidation des parcours réels, la qualité des interfaces, la fiabilité des opérations, l'intégration de BILL et la préparation d'une distribution Windows utilisable sur d'autres machines**.
+
+Nous distinguons les **fonctionnalités présentes**, les **intégrations partielles**, les **expérimentations** et les **objectifs de développement**. Ni une jolie interface, ni l'existence d'un module dans le code ne suffisent à prouver un usage abouti.
+
+**Aujourd'hui : développement actif · pas de bêta publique · pas de date de sortie annoncée.**
+
+| Découvrir le projet | Comprendre sa progression |
+|:--|:--|
+| [Présentation communautaire ↗](https://florianhfk.github.io/obsitools-community/) | [État public du produit](STATUT_PUBLIC.md) |
+| [Vision et philosophie](VISION_PUBLIQUE.md) | [Axes de développement](ROADMAP_PUBLIQUE.md) |
+| [Questions fréquentes](FAQ.md) | [Participer et contribuer](CONTRIBUTING.md) |
+
+## Construire la suite, ensemble.
+
+OBSITOOLS est né comme un **projet indépendant**, avec une vision volontairement large : reprendre le contrôle de sa machine sans renoncer à la création, à l'exploration ou à l'intelligence.
+
+Vous êtes sensible au **développement Windows, à l'audio/DSP, à l'IA locale, aux interfaces ambitieuses, à la sécurité défensive ou au test logiciel** ? Les retours, critiques argumentées et propositions de collaboration sont les bienvenus. Toute contribution technique se discute avant intervention sur le code propriétaire.
 
 <div align="center">
 
-<br>
-
-### L'AVENIR NE SE CONSTRUIT PAS SEUL.
-
-[**EXPLORER LE SITE COMMUNAUTAIRE ↗**](https://florianhfk.github.io/obsitools-community/) &nbsp; · &nbsp; [**CONTACTER LE PROJET ↗**](mailto:dev@obsitools.com)
+[**DÉCOUVRIR LA COMMUNAUTÉ ↗**](https://florianhfk.github.io/obsitools-community/) &nbsp; · &nbsp; [**CONTACTER LE PROJET ✉**](mailto:dev@obsitools.com) &nbsp; · &nbsp; [**LIRE LE GUIDE DE CONTRIBUTION ↗**](CONTRIBUTING.md)
 
 <br>
-
-<sub>© 2026 OBSITOOLS — Projet indépendant · Application propriétaire en développement · Aucune bêta publique ouverte</sub>
+<sub>OBSITOOLS © 2026 · HFK Independent Software · Produit propriétaire en développement · Aucun téléchargement public disponible</sub>
 
 </div>

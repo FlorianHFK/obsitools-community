@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="276" viewBox="0 0 1400 276" role="img" aria-label="Quatre univers visuels conceptuels: Windows, Audio-Studio, Atlas et AI-Lab">
+<defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#15192a"/><stop offset="1" stop-color="#090c15"/></linearGradient></defs><rect width="1400" height="276" fill="#090c16"/>
+<rect x="8" y="5" width="338" height="266" rx="15" fill="url(#panel)" stroke="#8ed5df" stroke-opacity=".28"/>
+<path d="M24 24V14H50" stroke="#8ed5df" stroke-opacity=".65" fill="none" stroke-width="2"/>
+<g transform="translate(105.50 28.00) scale(0.725)"><g  fill="none" stroke="#ffffff" stroke-opacity=".44" stroke-width="1">
+    <rect x="20" y="20" width="45" height="45" rx="3" />
+    <rect x="80" y="20" width="45" height="45" rx="3" />
+    <rect x="140" y="20" width="45" height="45" rx="3" />
+    <rect x="20" y="80" width="45" height="45" rx="3" />
+    <rect x="80" y="80" width="45" height="45" rx="3" />
+    <rect x="140" y="80" width="45" height="45" rx="3" />
+    <line x1="65" y1="42" x2="80" y2="42" />
+    <line x1="125" y1="42" x2="140" y2="42" />
+    <line x1="42" y1="65" x2="42" y2="80" />
+    <line x1="102" y1="65" x2="102" y2="80" />
+    <line x1="162" y1="65" x2="162" y2="80" />
+  </g>
+</g>
+<path d="M30 193H324" stroke="#8ed5df" stroke-opacity=".29"/>
+<text x="30" y="220" font-size="24" font-weight="700" font-family="Segoe UI,Arial,sans-serif" fill="#f2f3f8">WINDOWS</text>
+<text x="30" y="244" font-size="12" font-weight="650" letter-spacing="2.1" font-family="Segoe UI,Arial,sans-serif" fill="#8ed5df">CONTRÔLE SYSTÈME</text>
+<rect x="356" y="5" width="338" height="266" rx="15" fill="url(#panel)" stroke="#b4a2e7" stroke-opacity=".28"/>
+<path d="M372 24V14H398" stroke="#b4a2e7" stroke-opacity=".65" fill="none" stroke-width="2"/>
+<g transform="translate(453.50 76.33) scale(0.604)"><path  d="M0,40 Q30,10 60,40 T120,40 T180,40 T240,40" fill="none" stroke="#ffffff" stroke-opacity=".44" stroke-width="1.5" />
+  <path  d="M0,40 Q40,65 80,40 T160,40 T240,40" fill="none" stroke="#ffffff" stroke-opacity=".44" stroke-width="1" />
+  <line  x1="0" y1="40" x2="240" y2="40" stroke="#ffffff" stroke-opacity=".44" stroke-dasharray="2,4" />
+</g>
+<path d="M378 193H672" stroke="#b4a2e7" stroke-opacity=".29"/>
+<text x="378" y="220" font-size="24" font-weight="700" font-family="Segoe UI,Arial,sans-serif" fill="#f2f3f8">AUDIO-STUDIO</text>
+<text x="378" y="244" font-size="12" font-weight="650" letter-spacing="2.1" font-family="Segoe UI,Arial,sans-serif" fill="#b4a2e7">CRÉATION SONORE</text>
+<rect x="704" y="5" width="338" height="266" rx="15" fill="url(#panel)" stroke="#abb6df" stroke-opacity=".28"/>
+<path d="M720 24V14H746" stroke="#abb6df" stroke-opacity=".65" fill="none" stroke-width="2"/>
+<g transform="translate(801.50 28.00) scale(0.725)"><circle  cx="100" cy="100" r="80" fill="none" stroke="#ffffff" stroke-opacity=".44" stroke-width="1.5" />
+  <ellipse  cx="100" cy="100" rx="80" ry="32" fill="none" stroke="#ffffff" stroke-opacity=".44" stroke-width="1" />
+  <ellipse  cx="100" cy="100" rx="32" ry="80" fill="none" stroke="#ffffff" stroke-opacity=".44" stroke-width="1" />
+  <line  x1="100" y1="10" x2="100" y2="190" stroke="#ffffff" stroke-opacity=".44" />
+  <line  x1="10" y1="100" x2="190" y2="100" stroke="#ffffff" stroke-opacity=".44" />
+</g>
+<path d="M726 193H1020" stroke="#abb6df" stroke-opacity=".29"/>
+<text x="726" y="220" font-size="24" font-weight="700" font-family="Segoe UI,Arial,sans-serif" fill="#f2f3f8">ATLAS</text>
+<text x="726" y="244" font-size="12" font-weight="650" letter-spacing="2.1" font-family="Segoe UI,Arial,sans-serif" fill="#abb6df">EXPLORATION</text>
+<rect x="1052" y="5" width="338" height="266" rx="15" fill="url(#panel)" stroke="#d4b6e9" stroke-opacity=".28"/>
+<path d="M1068 24V14H1094" stroke="#d4b6e9" stroke-opacity=".65" fill="none" stroke-width="2"/>
+<g transform="translate(1149.50 42.50) scale(0.725)"><g  fill="none" stroke="#ffffff" stroke-opacity=".44" stroke-width="1">
+    <line x1="30" y1="40" x2="100" y2="25" /><line x1="30" y1="40" x2="100" y2="80" /><line x1="30" y1="40" x2="100" y2="135" />
+    <line x1="30" y1="80" x2="100" y2="25" /><line x1="30" y1="80" x2="100" y2="80" /><line x1="30" y1="80" x2="100" y2="135" />
+    <line x1="30" y1="120" x2="100" y2="25" /><line x1="30" y1="120" x2="100" y2="80" /><line x1="30" y1="120" x2="100" y2="135" />
+    <line x1="100" y1="25" x2="170" y2="50" /><line x1="100" y1="25" x2="170" y2="110" />
+    <line x1="100" y1="80" x2="170" y2="50" /><line x1="100" y1="80" x2="170" y2="110" />
+    <line x1="100" y1="135" x2="170" y2="50" /><line x1="100" y1="135" x2="170" y2="110" />
+  </g>
+  <circle  cx="30" cy="40" r="4" fill="#ffffff" fill-opacity=".64" /><circle  cx="30" cy="80" r="4" fill="#ffffff" fill-opacity=".64" /><circle  cx="30" cy="120" r="4" fill="#ffffff" fill-opacity=".64" />
+  <circle  cx="100" cy="25" r="4" fill="#ffffff" fill-opacity=".64" /><circle  cx="100" cy="80" r="4" fill="#ffffff" fill-opacity=".64" /><circle  cx="100" cy="135" r="4" fill="#ffffff" fill-opacity=".64" />
+  <circle  cx="170" cy="50" r="4" fill="#ffffff" fill-opacity=".64" /><circle  cx="170" cy="110" r="4" fill="#ffffff" fill-opacity=".64" />
+</g>
+<path d="M1074 193H1368" stroke="#d4b6e9" stroke-opacity=".29"/>
+<text x="1074" y="220" font-size="24" font-weight="700" font-family="Segoe UI,Arial,sans-serif" fill="#f2f3f8">AI-LAB</text>
+<text x="1074" y="244" font-size="12" font-weight="650" letter-spacing="2.1" font-family="Segoe UI,Arial,sans-serif" fill="#d4b6e9">INTELLIGENCE</text>
+</svg>
