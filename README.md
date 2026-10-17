@@ -1,69 +1,70 @@
-# OBSITOOLS — Build what comes next
+<div align="center">
 
-🌍 **[English — README](./README.en.md) · [English website](./en/index.html) · [Français — site](./index.html)**
+![OBSITOOLS — One environment. Many worlds.](media/obsitools-banner.svg)
 
-> **BÊTA OBSITOOLS NON DISPONIBLE — aucun téléchargement public ni accès bêta ouvert à ce jour.** Le site officiel peut encore afficher des annonces anciennes ; elles ne constituent pas une ouverture de la bêta.
+### Un environnement Windows. Plusieurs mondes. Une intelligence souveraine.
 
-🌐 [Site officiel OBSITOOLS](https://obsitools.com/)
+**Windows Control · BILL · AUDIO-STUDIO · ATLAS · AI-Lab · Creative · Engineering**
 
-> **Un projet indépendant. Une plateforme ambitieuse. Une communauté de bâtisseurs à réunir.**
+[**Découvrir le projet ↗**](https://obsitools.com/) &nbsp;·&nbsp; [**Explorer la présentation ↗**](./index.html) &nbsp;·&nbsp; [**Participer ↗**](./CONTRIBUTING.md) &nbsp;·&nbsp; [**English ↗**](./README.en.md)
 
-**OBSITOOLS** est un projet logiciel Windows en cours de développement. Son ambition : rapprocher des univers aujourd'hui séparés — administration système, outils d'ingénierie, création musicale, automatisation et intelligence artificielle — dans une expérience cohérente et maîtrisable.
+</div>
 
-Au cœur de cette vision, **BILL** : une intelligence souveraine en développement, pensée pour comprendre le contexte, aider à utiliser des outils, agir après autorisation lorsque nécessaire et vérifier ses résultats.
+> [!IMPORTANT]
+> **OBSITOOLS est en développement. La bêta n'est pas encore disponible.** Aucun téléchargement public ni accès bêta ouvert actuellement. Les anciennes annonces sur le site officiel ne constituent pas une ouverture de la bêta.
 
-Ce n'est **ni un produit fini**, ni une promesse que toutes les fonctions imaginées sont déjà opérationnelles. C'est un projet réel, avec une vision de long terme, qui cherche à élargir son cercle de contributeurs.
+## Une plateforme, pas une collection de fenêtres
 
-**➡️ [Découvrir la présentation visuelle d'OBSITOOLS](./index.html)** — page HTML autonome et site GitHub Pages dès son activation.
+**OBSITOOLS** est un projet indépendant pour Windows qui rassemble diagnostic système, création musicale, ingénierie, exploration et intelligence artificielle dans un environnement conçu pour rester sous le contrôle de son utilisateur.
 
-**Dépôt communautaire officiel :** `FlorianHFK/obsitools-community` (public, distinct du code propriétaire, qui reste privé).
+Au cœur du projet, **BILL** : une intelligence souveraine en développement, pensée pour comprendre un objectif, utiliser des capacités autorisées et distinguer un résultat vérifié d'une simple promesse.
 
-## Les domaines de création
+Le projet possède déjà des interfaces et des modules en développement actif. **Leur maturité varie** : toutes les fonctions présentées ne sont pas nécessairement disponibles, connectées ou finalisées.
 
-| Univers | Intérêt |
+## Aperçu du produit
+
+Des vues issues du développement réel d'OBSITOOLS. Les captures peuvent représenter des versions de travail et ne constituent pas une démonstration de disponibilité commerciale.
+
+| HOME — Cockpit | Windows Control |
+| :---: | :---: |
+| ![HOME — cockpit OBSITOOLS](https://raw.githubusercontent.com/FlorianHFK/obsitools-community/main/media/screenshots/home.jpg) | ![Windows Control — tableau de bord](https://raw.githubusercontent.com/FlorianHFK/obsitools-community/main/media/screenshots/windows.jpg) |
+| **BILL et navigation entre les espaces** | **Télémétrie et diagnostics système** |
+
+| AUDIO-STUDIO — Fractal Temporal Glitch | NEURONE LAB — Arche causale |
+| :---: | :---: |
+| ![AUDIO-STUDIO — Fractal Temporal Glitch](https://raw.githubusercontent.com/FlorianHFK/obsitools-community/main/media/screenshots/audio-glitch.jpg) | ![NEURONE LAB — Arche causale](https://raw.githubusercontent.com/FlorianHFK/obsitools-community/main/media/screenshots/arche-causale.jpg) |
+| **Expérimentation audio et transformation du son** | **Explorer des relations et leurs conséquences** |
+
+> Les images correspondent à des captures de développement, pas à un produit public téléchargeable. Des visuels plus récents viendront les remplacer.
+
+## Les territoires OBSITOOLS
+
+| Espace | Ambition |
 | --- | --- |
-| **BILL** | Intelligence intégrée, assistance contrôlée et évolution fondée sur des preuves. |
-| **Windows Control** | Compréhension, diagnostic, réparation et maîtrise de Windows. |
-| **AUDIO-STUDIO** | Production musicale, traitement du son, outils DAW et DSP. |
-| **ATLAS** | Navigation, exploration et organisation de ressources et d'outils. |
-| **Forge / Tools** | Ingénierie logicielle, utilitaires, automatisation et qualité. |
-| **AI-Lab / Creative** | Expérimentation IA locale et interfaces de nouvelle génération. |
+| **BILL** | Intelligence locale et orchestrations autorisées, avec preuves et contrôle humain. |
+| **WINDOWS CONTROL** | Comprendre, diagnostiquer et maîtriser son environnement Windows. |
+| **AUDIO-STUDIO** | Composition, traitement du son, workflows DAW, DSP et mastering. |
+| **ATLAS** | Explorer et organiser les outils et les capacités sans se perdre dans les menus. |
+| **AI-LAB** | Modèles, fournisseurs, expérimentation IA et environnements de travail. |
+| **NEURONE LAB** | Expériences, raisonnements, liens causaux et exploration d'idées. |
+| **FORGE / TOOLS** | Créer, analyser, réparer et faire évoluer des outils logiciels. |
 
-Pour comprendre l'ambition et ses limites : [Vision publique](./VISION_PUBLIQUE.md).
+## Plusieurs identités visuelles, un seul produit
 
-## Qui aimerions-nous rencontrer ?
+OBSITOOLS explore des interfaces adaptables à des usages très différents : poste de travail professionnel, espace de création, laboratoire et centre de commandement immersif. L'objectif est de partager les mêmes données et fonctions sans dupliquer les moteurs.
 
-Développeurs Python, JavaScript/TypeScript ou natif ; spécialistes Windows et sécurité défensive ; passionnés de MAO, DSP et MIDI ; designers UI/UX ; personnes rigoureuses en QA, documentation et performance.
+**Local-first · Souveraineté · Ergonomie premium · Vérification des résultats · Évolution sans régression**
 
-**Pas besoin de savoir tout faire.** Un domaine maîtrisé et une envie de construire proprement sont déjà un bon début.
+## Construisons la suite
 
-## Participer sans accéder au code propriétaire
+Ce dépôt est **l'espace communautaire public** du projet, pas son code source.
 
-Ce dépôt a vocation à accueillir **des discussions, des idées, des retours, de la documentation et des projets indépendants soigneusement sélectionnés**. Le cœur propriétaire d'OBSITOOLS et BILL ne fait pas partie de ce dépôt.
+Nous souhaitons échanger avec des personnes qui aiment construire des produits exigeants : développement Python / JavaScript / natif, systèmes Windows, sécurité défensive, audio / DSP, UI/UX, QA et documentation.
 
-1. Lire [Comment contribuer](./CONTRIBUTING.md).
-2. Proposer une idée ou signaler un problème via les Issues, lorsque le dépôt sera mis en ligne.
-3. Envoyer une courte présentation à **[dev@obsitools.com](mailto:dev@obsitools.com?subject=OBSITOOLS%20-%20Contribution)**.
-4. Définir ensemble un périmètre et, **avant tout apport de code ou de création**, les conditions appropriées.
+**[Proposer une idée](https://github.com/FlorianHFK/obsitools-community/issues/new/choose)** · **[Lire la vision](./VISION_PUBLIQUE.md)** · **[Contribuer](./CONTRIBUTING.md)** · **[Écrire à dev@obsitools.com](mailto:dev@obsitools.com?subject=OBSITOOLS%20-%20Contribution)**
 
-Aucune contribution bénévole au produit propriétaire n'est présumée. Aucune rémunération, fonction salariée ou participation au capital n'est promise par cette présentation.
-
-## Notre exigence
-
-- **Local-first et maîtrise des données** : une préférence de conception, pas une affirmation que chaque fonction est 100 % offline aujourd'hui.
-- **Preuves avant slogans** : ne pas dire qu'une fonctionnalité marche avant de l'avoir testée.
-- **Contrôle humain** : les actions importantes doivent respecter les permissions appropriées.
-- **Non-régression** : améliorer ce qui existe plutôt que tout reconstruire.
-- **Qualité produit** : expérience claire, accessible, performante et soignée.
-
-## Code, licences et confidentialité
-
-**Ce dépôt public de présentation n'est pas une publication open source du produit OBSITOOLS.** Il ne contient aucun droit implicite d'utiliser, reproduire ou redistribuer les composants propriétaires.
-
-Aucune licence de code n'a encore été adoptée pour d'éventuels modules publics. **N'envoyez pas de pull request contenant du code ou des créations significatives avant accord explicite sur les conditions de contribution et la licence du périmètre concerné.** Les échanges d'idées et suggestions sont possibles, sans transfert automatique de propriété intellectuelle.
-
-Ne partagez ni informations sensibles, ni fichiers privés, ni clés, ni données personnelles ou de clients. Consultez [Sécurité](./SECURITY.md).
+Ce dépôt ne constitue ni une offre d'emploi, ni une promesse de rémunération ou de parts. Les conditions de toute contribution significative sont à convenir explicitement au préalable.
 
 ---
 
-**Statut :** projet indépendant en développement · **Contact :** dev@obsitools.com · **Vision :** [Présentation publique](./index.html)
+<sub>**OBSITOOLS © 2026** · Projet indépendant en développement · Le cœur d'OBSITOOLS et de BILL reste propriétaire et privé. Aucun droit de réutilisation du code propriétaire n'est accordé par ce dépôt. [Sécurité](./SECURITY.md) · [Mentions de licence](./LICENSE_NOTICE.md)</sub>
