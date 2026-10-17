@@ -1,43 +1,80 @@
-# OBSITOOLS — Build what comes next
+<div align="center">
 
-**OBSITOOLS BETA IS NOT AVAILABLE YET.** There is no public beta download or open beta access at this time. Any older beta announcements on the official website should not be interpreted as an active release.
+![OBSITOOLS — One environment. Many worlds.](media/obsitools-banner.svg)
 
-🌐 [Official OBSITOOLS website](https://obsitools.com/)
+<img src="https://obsitools.com/assets/brand/obsitools_emblem_1000.webp" alt="OBSITOOLS emblem" width="100">
 
-**An independent project. An ambitious software platform. A community of builders in the making.**
+### Your Windows environment. One intelligence. Many worlds.
 
-**[English website](./en/index.html)** · **[Version française](./index.html)** · **[Public vision (FR)](./VISION_PUBLIQUE.md)** · **[Contribution guide (FR)](./CONTRIBUTING.md)**
+**BILL** &nbsp; / &nbsp; **WINDOWS CONTROL** &nbsp; / &nbsp; **AUDIO-STUDIO** &nbsp; / &nbsp; **ATLAS** &nbsp; / &nbsp; **AI-LAB**
 
-OBSITOOLS is an independent Windows software project in active development. Our goal is to bring together system management, engineering tools, music production, creative workflows and responsible automation in a cohesive, locally controlled environment.
+[**Official website ↗**](https://obsitools.com/) &nbsp;·&nbsp; [**Public vision ↗**](VISION_PUBLIQUE.md) &nbsp;·&nbsp; [**Contribute ↗**](CONTRIBUTING.md) &nbsp;·&nbsp; [**Français ↗**](README.md)
 
-At its center is **BILL**, a sovereign intelligence system under development. The long-term ambition goes beyond chat: understand goals, coordinate authorized capabilities, learn from verifiable outcomes and help build missing tools.
+</div>
 
-## Explore the vision
+> [!IMPORTANT]
+> **OBSITOOLS is under development. The beta is not available yet.** There is no public download or open beta access at this time. Older beta offers displayed on the official site do not mean registration is open.
 
-- **Windows Control:** system diagnostics, maintenance and accountable repair workflows.
-- **BILL:** goal understanding, tools, verified results and carefully governed evolution.
-- **Audio-Studio:** composing, sound design, DAW workflows, mixing, mastering and audio engineering.
-- **ATLAS:** explore and organize extensive collections of tools and resources.
-- **Forge & Tools:** development, analysis, repair and automation.
-- **AI-Lab & Creative:** local AI experimentation and creative workflows.
+## Not just a concept. Software in progress.
 
-**Important:** This is a vision and developer-recruitment space, **not a claim that all the proposed capabilities are implemented or publicly available**. Current implementations are at different maturity levels.
+An independent, local-first Windows environment bringing together machine control, music production, AI, creative workflows and software engineering. **Real interfaces and engines already exist**; their implementation, connectivity and verification status vary.
 
-## Join the community
+The goal: **one connected environment**, not a stack of unrelated utilities.
 
-We'd love to meet developers and contributors interested in Python, JavaScript, native Windows development, software architecture, security engineering, DSP/music technology, UI/UX, automated testing or documentation.
+### First look: ATLAS
 
-You can:
-1. [Suggest a practical idea](https://github.com/FlorianHFK/obsitools-community/issues/new/choose) or provide constructive feedback.
-2. Reach out with your interests and relevant experience at **dev@obsitools.com**.
-3. Discuss a realistic, independently scoped contribution before sharing code.
+<div align="center">
+<a href="https://obsitools.com/assets/screenshots/atlas.webp"><img src="https://obsitools.com/assets/screenshots/atlas.webp" alt="Real development screenshot of OBSITOOLS ATLAS from the official website" width="100%"></a>
+<sub>Development screenshot published on the official website. The interface continues to evolve.</sub>
+</div>
 
-This is not a paid job listing or an equity offer. Any contribution, private repository access, intellectual-property terms or ongoing collaboration will be agreed explicitly beforehand.
+### The worlds of OBSITOOLS
 
-## Source code and safety
+| | |
+| :--- | :--- |
+| **BILL · Sovereign intelligence** | Understand goals, use authorized capabilities and distinguish evidence from assumptions. |
+| **WINDOWS CONTROL · Own your environment** | Diagnostics, performance, system health, maintenance and controlled repair. |
+| **AUDIO-STUDIO · Music production** | DAW sessions, sequencing, sound design, mixing and audio processing. |
+| **ATLAS · Explore everything** | Navigate workspaces, tools, capabilities and goal-based workflows. |
+| **AI-LAB · AI experimentation** | Local models, providers, agents, tools and supervised experiments. |
+| **CREATIVE · Make things** | Image, video, narratives and creative workflows. |
+| **NEURONE LAB · Explore ideas** | Experiments, causal reasoning and critical thinking. |
+| **FORGE / TOOLS · Build & repair** | Windows utilities, engineering, automation and software experiments. |
 
-The **OBSITOOLS and BILL core codebases remain proprietary and private**. This public repository only contains community-facing documents and the landing page. Publishing an issue or participating in discussion does not grant access to the core software.
+### One intelligence. Multiple identities.
 
-Please do not publish secrets, personal data, security vulnerabilities, private logs, internal architecture or proprietary code. For security-sensitive reports contact **dev@obsitools.com** privately.
+<div align="center">
 
-© 2026 OBSITOOLS. All rights reserved unless a specific file states otherwise.
+**CLASSIC &nbsp;·&nbsp; PHOENIX / ASTRA &nbsp;·&nbsp; CINEMATIC HFK**
+
+*Visual directions in development — not separate software products.*
+
+</div>
+
+The MULTIVERSE vision: change the interface and atmosphere without duplicating engines or losing capabilities.
+
+### The principle
+
+**Local-first. Human control. Verifiable outcomes.**
+
+A visible page isn't proof of a working feature. A declared capability isn't a tested engine. Development screenshots do not imply public availability.
+
+---
+
+## Build what comes next
+
+This **public** repository is a community and discussion space. **The OBSITOOLS and BILL core source code remains proprietary and private.**
+
+We're interested in people working with **Windows, Python/JavaScript, native systems, UI/UX, audio/DSP, defensive security, local AI, QA and software architecture**.
+
+<div align="center">
+
+[**Share an idea ↗**](https://github.com/FlorianHFK/obsitools-community/issues/new/choose) &nbsp;·&nbsp; [**Contribution guide ↗**](CONTRIBUTING.md) &nbsp;·&nbsp; [**Public roadmap ↗**](ROADMAP_PUBLIQUE.md) &nbsp;·&nbsp; [**Contact ↗**](mailto:dev@obsitools.com)
+
+</div>
+
+Any collaboration terms must be explicitly agreed in advance. This repository is not a job offer or a promise of compensation, equity or access to private code.
+
+---
+
+<div align="center"><sub>OBSITOOLS © 2026 · Independent software project · Work in progress · Proprietary source code not published<br/>[Public status](STATUT_PUBLIC.md) · [Security](SECURITY.md) · [License notice](LICENSE_NOTICE.md)</sub></div>
