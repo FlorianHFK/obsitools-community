@@ -1,0 +1,26 @@
+name: Retour / bug d'une version publique
+description: Signaler un problème observable sur une surface officiellement rendue publique
+body:
+  - type: markdown
+    attributes:
+      value: "Ne pas publier de vulnérabilité, de clé, de journal privé ou de données personnelles : contacter dev@obsitools.com pour ces cas."
+  - type: input
+    id: contexte
+    attributes:
+      label: Contexte ou version testée
+      placeholder: Version publique / page / prototype concerné
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Comment reproduire ?
+      description: Étapes non destructrices et reproductibles.
+    validations:
+      required: true
+  - type: textarea
+    id: attendu
+    attributes:
+      label: Résultat attendu / résultat observé
+    validations:
+      required: true
