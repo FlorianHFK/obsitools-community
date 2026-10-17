@@ -29,13 +29,15 @@ At its center is **BILL — Brain Intelligence & Local Logic**, the product's lo
 
 ## The software in pictures
 
+> **SCREENSHOT CONTEXT** — These are authentic screenshots from earlier development builds. Some still display the legacy **ORBYSS** label. **BILL is now the active brain**; we do not edit screenshots to imply they came from a newer build. Updated images will progressively replace this historical set.
+
 **Real OBSITOOLS development-build screenshots — not marketing mockups.** Open any image for a closer look. Feature integration and readiness vary between modules.
 
 <div align="center">
 
 <a href="media/screenshots/01-home-bill.webp"><img src="media/screenshots/01-home-bill.webp" alt="OBSITOOLS HOME and BILL cockpit, real development screenshot" width="960"></a>
 
-<sub>01 / HOME — central cockpit and BILL</sub>
+<sub>01 / HOME — historical development capture (legacy ORBYSS identity still visible in the UI)</sub>
 
 </div>
 
