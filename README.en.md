@@ -65,25 +65,50 @@ The platform retains two complementary experiences: **Ultimate_V2 / Web Premium*
 
 ## The product in pictures
 
-**Authentic screenshots from development builds**, not marketing mockups. Click for full size.
+**Authentic interface screenshots from development builds.** Some are from earlier versions; these are genuine application views, not invented marketing mockups. The main screenshots are displayed at full README width for legibility. Click an image to open the original file.
+
+### 01 — HOME / Main cockpit
 
 <div align="center">
-<a href="media/screenshots/01-home-bill.webp"><img src="media/screenshots/01-home-bill.webp" alt="Authentic OBSITOOLS HOME dashboard and brain interface screenshot" width="100%"></a>
-<br><sub>01 / HOME — main cockpit &amp; BILL</sub>
+<a href="media/screenshots/01-home-bill.webp"><img src="media/screenshots/01-home-bill.webp" width="100%" alt="Authentic development screenshot of the HOME cockpit and earlier assistant interface"></a>
+<sub>Development interface — the product brain's identity and behaviors are being consolidated as BILL.</sub>
 </div>
+
+### 02 — ATLAS / Exploration
+
+<div align="center">
+<a href="media/screenshots/02-atlas-galaxy.webp"><img src="media/screenshots/02-atlas-galaxy.webp" width="100%" alt="Real ATLAS Galaxy workspace screenshot"></a>
+<sub>Explore the OBSITOOLS environment and navigate its resources.</sub>
+</div>
+
+### 03 — AUDIO-STUDIO / Sound production
+
+<div align="center">
+<a href="media/screenshots/03-mao-studio.webp"><img src="media/screenshots/03-mao-studio.webp" width="100%" alt="Authentic screenshot of AUDIO-STUDIO and its music-production interface"></a>
+<sub>Audio development build; its displayed capabilities are at different stages of integration and verification.</sub>
+</div>
+
+### 04 — WINDOWS CONTROL / System inspection
+
+<div align="center">
+<a href="media/screenshots/04-windows-control.webp"><img src="media/screenshots/04-windows-control.webp" width="100%" alt="Real Windows Control screenshot"></a>
+<sub>Windows system overview and control utilities.</sub>
+</div>
+
+### More OBSITOOLS workspaces
 
 <table>
 <tr>
-<td width="50%" align="center"><a href="media/screenshots/02-atlas-galaxy.webp"><img src="media/screenshots/02-atlas-galaxy.webp" alt="Real ATLAS Galaxy workspace screenshot" width="100%"></a><br><strong>ATLAS / Exploration</strong></td>
-<td width="50%" align="center"><a href="media/screenshots/03-mao-studio.webp"><img src="media/screenshots/03-mao-studio.webp" alt="Real AUDIO-STUDIO workspace screenshot" width="100%"></a><br><strong>AUDIO-STUDIO / Creation</strong></td>
+<td align="center" width="50%"><a href="media/screenshots/05-cosmos-electro.webp"><img src="media/screenshots/05-cosmos-electro.webp" width="100%" alt="COSMOS ELECTRO screenshot"></a><br><strong>COSMOS / Electro</strong></td>
+<td align="center" width="50%"><a href="media/screenshots/06-ai-lab.webp"><img src="media/screenshots/06-ai-lab.webp" width="100%" alt="AI-LAB screenshot"></a><br><strong>AI-LAB / Intelligence</strong></td>
 </tr>
 <tr>
-<td width="50%" align="center"><a href="media/screenshots/04-windows-control.webp"><img src="media/screenshots/04-windows-control.webp" alt="Real Windows Control workspace screenshot" width="100%"></a><br><strong>WINDOWS / Control</strong></td>
-<td width="50%" align="center"><a href="media/screenshots/06-ai-lab.webp"><img src="media/screenshots/06-ai-lab.webp" alt="Real AI-LAB workspace screenshot" width="100%"></a><br><strong>AI-LAB / Intelligence</strong></td>
+<td align="center" width="50%"><a href="media/screenshots/07-atlas-universe.webp"><img src="media/screenshots/07-atlas-universe.webp" width="100%" alt="ATLAS Universe screenshot"></a><br><strong>ATLAS / Universe</strong></td>
+<td align="center" width="50%"><a href="media/screenshots/08-neurone-lab.webp"><img src="media/screenshots/08-neurone-lab.webp" width="100%" alt="NEURONE LAB screenshot"></a><br><strong>NEURONE LAB</strong></td>
 </tr>
 </table>
 
-> **Visual transparency:** some screenshots come from earlier builds and still mention **ORBYSS**. Screenshots alone are not evidence that every displayed function is currently shipped or validated as part of BILL.
+> **Visual transparency:** some screenshots are from historical builds and may still display the **ORBYSS** name. **BILL** is the product brain's current name. An interface screenshot does not prove that everything on screen is publicly available or functionally validated.
 
 ## Big ambitions. Progressive delivery.
 
