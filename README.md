@@ -21,12 +21,35 @@ Un environnement Windows indépendant, local-first, qui réunit le contrôle sys
 
 Le but : **un seul produit**, plutôt qu'une pile d'utilitaires qui ne se parlent pas.
 
-### Un premier regard : ATLAS
+## OBSITOOLS en images
+
+Huit captures réelles de l'application en développement. Les interfaces évoluent et ne signifient pas que toutes les fonctionnalités sont finalisées ou publiquement disponibles.
 
 <div align="center">
-<a href="https://obsitools.com/assets/screenshots/atlas.webp"><img src="https://obsitools.com/assets/screenshots/atlas.webp" alt="Capture réelle d'ATLAS dans OBSITOOLS, publiée sur le site officiel" width="100%"></a>
-<sub>Capture de développement publiée sur le site officiel. L'interface évolue encore.</sub>
+
+[![HOME · BILL](media/screenshots/01-home-bill.webp)](media/screenshots/01-home-bill.webp)
+
+**HOME · BILL** — Le cockpit principal
+
 </div>
+
+| **ATLAS · Galaxy** | **AUDIO-STUDIO · MAO Studio** |
+| :---: | :---: |
+| [![ATLAS · Galaxy](media/screenshots/02-atlas-galaxy.webp)](media/screenshots/02-atlas-galaxy.webp) | [![AUDIO-STUDIO · MAO Studio](media/screenshots/03-mao-studio.webp)](media/screenshots/03-mao-studio.webp) |
+
+| **WINDOWS CONTROL** | **COSMOS · Electro** |
+| :---: | :---: |
+| [![WINDOWS CONTROL](media/screenshots/04-windows-control.webp)](media/screenshots/04-windows-control.webp) | [![COSMOS · Electro](media/screenshots/05-cosmos-electro.webp)](media/screenshots/05-cosmos-electro.webp) |
+
+| **AI-LAB** | **ATLAS · Universe** |
+| :---: | :---: |
+| [![AI-LAB](media/screenshots/06-ai-lab.webp)](media/screenshots/06-ai-lab.webp) | [![ATLAS · Universe](media/screenshots/07-atlas-universe.webp)](media/screenshots/07-atlas-universe.webp) |
+
+| **NEURONE LAB** |  |
+| :---: | :---: |
+| [![NEURONE LAB](media/screenshots/08-neurone-lab.webp)](media/screenshots/08-neurone-lab.webp) |  |
+
+*Captures du logiciel en développement, pas des maquettes publicitaires.*
 
 ### Les expériences en cours
 
