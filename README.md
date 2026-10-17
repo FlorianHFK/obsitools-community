@@ -21,21 +21,11 @@ Au cœur du projet, **BILL** : une intelligence souveraine en développement, pe
 
 Le projet possède déjà des interfaces et des modules en développement actif. **Leur maturité varie** : toutes les fonctions présentées ne sont pas nécessairement disponibles, connectées ou finalisées.
 
-## Aperçu du produit
+## Le produit en images
 
-Des vues issues du développement réel d'OBSITOOLS. Les captures peuvent représenter des versions de travail et ne constituent pas une démonstration de disponibilité commerciale.
+Les premières captures de développement montrent notamment le cockpit HOME, Windows Control, les expériences de NEURONE LAB et le laboratoire sonore AUDIO-STUDIO. Une galerie de captures sélectionnées et nettoyées sera publiée ici prochainement.
 
-| HOME — Cockpit | Windows Control |
-| :---: | :---: |
-| ![HOME — cockpit OBSITOOLS](https://raw.githubusercontent.com/FlorianHFK/obsitools-community/main/media/screenshots/home.jpg) | ![Windows Control — tableau de bord](https://raw.githubusercontent.com/FlorianHFK/obsitools-community/main/media/screenshots/windows.jpg) |
-| **BILL et navigation entre les espaces** | **Télémétrie et diagnostics système** |
-
-| AUDIO-STUDIO — Fractal Temporal Glitch | NEURONE LAB — Arche causale |
-| :---: | :---: |
-| ![AUDIO-STUDIO — Fractal Temporal Glitch](https://raw.githubusercontent.com/FlorianHFK/obsitools-community/main/media/screenshots/audio-glitch.jpg) | ![NEURONE LAB — Arche causale](https://raw.githubusercontent.com/FlorianHFK/obsitools-community/main/media/screenshots/arche-causale.jpg) |
-| **Expérimentation audio et transformation du son** | **Explorer des relations et leurs conséquences** |
-
-> Les images correspondent à des captures de développement, pas à un produit public téléchargeable. Des visuels plus récents viendront les remplacer.
+**À voir dès maintenant :** [la présentation du projet](./index.html) et [la vision publique](./VISION_PUBLIQUE.md).
 
 ## Les territoires OBSITOOLS
 
