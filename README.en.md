@@ -17,9 +17,9 @@
 
 ## Not just a concept. Software in progress.
 
-An independent, local-first Windows environment bringing together machine control, music production, AI, creative workflows and software engineering. **Real interfaces and engines already exist**; their implementation, connectivity and verification status vary.
+**OBSITOOLS is an independent, local-first Windows software platform in development**: Windows diagnostics and control, local AI with the **BILL** sovereign intelligence system, an audio/DAW studio, creative workflows, automation and engineering tools. **Working interfaces and engines already exist**, but integration and verification levels vary across modules.
 
-The goal: **one connected environment**, not a stack of unrelated utilities.
+Explore the **[real development screenshots](#obsitools-in-pictures)**, read the **[public roadmap](ROADMAP_PUBLIQUE.md)** and check the **[development status](STATUT_PUBLIC.md)**. The goal: **one connected environment**, not a stack of unrelated utilities.
 
 ## OBSITOOLS in pictures
 
