@@ -4,7 +4,7 @@
 
 ### UN PC. DES UNIVERS. UNE INTELLIGENCE QUI LES RELIE.
 
-**OBSITOOLS imagine une autre manière de travailler sur Windows :****comprendre, créer, expérimenter et maîtriser — depuis un seul environnement.**
+**OBSITOOLS imagine une autre manière de travailler sur Windows : comprendre, créer, expérimenter et maîtriser — depuis un seul environnement.**
 
 [**DÉCOUVRIR L’EXPÉRIENCE ↗**](https://florianhfk.github.io/obsitools-community/) &nbsp; · &nbsp; [**VOIR LE PRODUIT ↓**](#le-produit-en-images) &nbsp; · &nbsp; [**ENGLISH ↗**](README.en.md)
 
