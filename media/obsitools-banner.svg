@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="450" viewBox="0 0 1440 450" role="img" aria-label="OBSITOOLS — One environment. Many worlds.">
+<defs>
+  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b0e17"/><stop offset=".56" stop-color="#10111c"/><stop offset="1" stop-color="#070910"/></linearGradient>
+  <radialGradient id="ambient"><stop stop-color="#6e57aa" stop-opacity=".26"/><stop offset="1" stop-color="#6e57aa" stop-opacity="0"/></radialGradient>
+  <radialGradient id="core"><stop stop-color="#f8ecff"/><stop offset=".16" stop-color="#b6a0ff"/><stop offset=".50" stop-color="#61469f"/><stop offset="1" stop-color="#080b18"/></radialGradient>
+  <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0eef1"/><stop offset=".22" stop-color="#7e8296"/><stop offset=".38" stop-color="#1f2533"/><stop offset=".6" stop-color="#c5c8d0"/><stop offset=".8" stop-color="#48495c"/><stop offset="1" stop-color="#d4cee4"/></linearGradient>
+  <linearGradient id="accent" x2="1" y2="0"><stop stop-color="#a899e9"/><stop offset=".58" stop-color="#dbbfae"/><stop offset="1" stop-color="#89d1db"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="15"/></filter>
+  <pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse"><path d="M54 0H0V54" stroke="#7d83a2" stroke-opacity=".10" fill="none"/></pattern>
+</defs>
+<rect width="1440" height="450" fill="url(#bg)"/>
+<rect width="1440" height="450" fill="url(#grid)"/>
+<ellipse cx="1134" cy="205" rx="480" ry="350" fill="url(#ambient)"/>
+<path d="M0 1H1440" stroke="url(#accent)" stroke-width="3"/>
+<path d="M0 449H1440" stroke="#bcb0dd" opacity=".25"/>
+<g transform="translate(920 225)">
+  <circle r="183" stroke="#bcb3d3" stroke-opacity=".18" stroke-width="1"/>
+  <circle r="148" stroke="#cac3df" stroke-opacity=".33" stroke-width="2" fill="none"/>
+  <circle r="126" stroke="#7a6d9d" stroke-opacity=".4" stroke-width="1" stroke-dasharray="3 9" fill="none"/>
+  <circle r="110" stroke="url(#metal)" stroke-width="24" fill="#0e1120"/>
+  <circle r="82" stroke="#9c8abb" stroke-opacity=".5" stroke-width="1.5" fill="none"/>
+  <path d="M-108-12l-34-32M-11-109l-2-38M103 23l43 11M20 108l12 41" stroke="#070a12" stroke-width="17"/>
+  <path d="M-105-12l-34-32M-11-109l-2-38M103 23l43 11M20 108l12 41" stroke="#e4d9f4" stroke-opacity=".45" stroke-width="1.5"/>
+  <g opacity=".92">
+    <path d="M-67-29L-28-71 1-39-15 7-55 31Z" fill="#8c83b9" fill-opacity=".34" stroke="#c7b9ed"/>
+    <path d="M-28-71L15-63 45-22 1-39Z" fill="#e5deef" fill-opacity=".15" stroke="#b4abdb"/>
+    <path d="M-55 31L-15 7 6 67-47 53Z" fill="#b89cd8" fill-opacity=".31" stroke="#c3a5ed"/>
+    <path d="M15-63L45-22 69 37 6 67-15 7 1-39Z" fill="#111a2a" stroke="#9f93cc" stroke-opacity=".6"/>
+    <path d="M-47 53L6 67 69 37" fill="none" stroke="#d7c3ff" stroke-opacity=".8"/>
+  </g>
+  <circle r="37" fill="#b19aff" opacity=".24" filter="url(#glow)"/>
+  <circle r="30" fill="url(#core)" stroke="#e6d6ff" stroke-opacity=".75" stroke-width="2"/>
+  <circle r="11" fill="#eee5ff" opacity=".85"/>
+  <g stroke="#b5a3df" stroke-opacity=".55" fill="none">
+    <path d="M-230 23Q-104-157 71-188T246-57"/>
+    <path d="M-198 92Q-20-224 216-83"/>
+    <path d="M-238-30Q65 214 240-17"/>
+  </g>
+  <g fill="#cec4ff"><circle cx="-230" cy="23" r="4"/><circle cx="246" cy="-57" r="4"/><circle cx="216" cy="-83" r="3"/></g>
+</g>
+<path d="M80 352H630" stroke="url(#accent)" stroke-opacity=".65" stroke-width="1.5"/>
+<text x="82" y="97" font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#b2a7cd" font-weight="600" letter-spacing="5">INDEPENDENT WINDOWS PLATFORM</text>
+<text x="76" y="215" font-family="Segoe UI,Arial,sans-serif" font-size="82" fill="#f4f0fa" font-weight="750" letter-spacing="9">OBSITOOLS</text>
+<text x="81" y="281" font-family="Segoe UI,Arial,sans-serif" font-size="27" fill="#d6cde9" letter-spacing="1">One environment. Many worlds.</text>
+<text x="82" y="331" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#a9b6c8" letter-spacing="1.1">WINDOWS  /  BILL  /  AUDIO  /  AI  /  ENGINEERING</text>
+<text x="82" y="388" font-family="Consolas,monospace" font-size="12" fill="#a9a3b6" letter-spacing="2">LOCAL-FIRST   •   HUMAN CONTROL   •   WORK IN PROGRESS</text>
+<text x="1223" y="416" font-family="Consolas,monospace" font-size="11" fill="#8e819e" letter-spacing="2">HFK / 2026</text>
+</svg>
