@@ -29,6 +29,8 @@ Son centre de gravité est **BILL — Brain Intelligence & Local Logic**, le cer
 
 ## Le produit en images
 
+> **CAPTURES HISTORIQUES** — Ces vues réelles proviennent d'anciennes étapes de développement. Certaines affichent encore **ORBYSS** : le cerveau actif porte désormais le nom **BILL**. Nous ne falsifions pas les captures pour faire croire à une version plus récente ; elles seront remplacées lorsqu'elles auront été recapturées dans le runtime BILL.
+
 **De véritables captures du logiciel**, et non des interfaces imaginées pour une publicité. Chaque image s'ouvre en grand. L'état des fonctions peut varier d'un module à l'autre.
 
 <div align="center">
