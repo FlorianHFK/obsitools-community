@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://florianhfk.github.io/obsitools-community/sitemap.xml
