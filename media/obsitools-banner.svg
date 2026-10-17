@@ -1,32 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc"><title id="title">OBSITOOLS — Windows Control, Audio, BILL, AI</title><desc id="desc">Cinematic product banner with the OBSITOOLS wordmark and BILL sovereign intelligence crest</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="400" viewBox="0 0 1440 400" role="img" aria-labelledby="title desc">
+<title id="title">OBSITOOLS — Windows, Audio, BILL, AI</title><desc id="desc">OBSITOOLS banner with a violet and cyan neural core for BILL, and Windows, Audio, ATLAS and AI-LAB product areas.</desc>
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06080f"/><stop offset=".55" stop-color="#0e1020"/><stop offset="1" stop-color="#060911"/></linearGradient>
-<linearGradient id="vio" x1="0" y1="1" x2=".95" y2="0"><stop stop-color="#5740ad"/><stop offset=".5" stop-color="#c6a8ff"/><stop offset="1" stop-color="#55bbff"/></linearGradient>
-<linearGradient id="metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f0eaff"/><stop offset=".16" stop-color="#9e9fb6"/><stop offset=".37" stop-color="#393851"/><stop offset=".63" stop-color="#e6d8ff"/><stop offset="1" stop-color="#545472"/></linearGradient>
-<radialGradient id="glow"><stop stop-color="#b8a4ff" stop-opacity=".5"/><stop offset=".4" stop-color="#7641c3" stop-opacity=".18"/><stop offset="1" stop-color="#6f4ad5" stop-opacity="0"/></radialGradient>
-<pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" fill="none" stroke="#6f779e" stroke-opacity=".085"/></pattern>
+<linearGradient id="bg" x2="1" y2=".4"><stop stop-color="#05060b"/><stop offset=".58" stop-color="#0b101c"/><stop offset="1" stop-color="#070612"/></linearGradient>
+<linearGradient id="edge" x2="1"><stop stop-color="#634996"/><stop offset=".48" stop-color="#c9b5ff"/><stop offset=".75" stop-color="#49b9ef"/><stop offset="1" stop-color="#5a70a0"/></linearGradient>
+<linearGradient id="chrome" x1="0" y1="0" x2=".1" y2="1"><stop stop-color="#fff"/><stop offset=".27" stop-color="#c8c9e0"/><stop offset=".5" stop-color="#69627e"/><stop offset=".57" stop-color="#e6e5fb"/><stop offset=".85" stop-color="#9da1b8"/><stop offset="1" stop-color="#d9cafa"/></linearGradient>
+<radialGradient id="core"><stop stop-color="#f9faff"/><stop offset=".1" stop-color="#c6a9ff"/><stop offset=".34" stop-color="#7644df"/><stop offset=".65" stop-color="#1a1947"/><stop offset="1" stop-color="#040610"/></radialGradient>
+<radialGradient id="halo"><stop stop-color="#a271ff" stop-opacity=".29"/><stop offset="1" stop-color="#582ec4" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M42 0H0V42" fill="none" stroke="#7792bb" stroke-opacity=".09"/></pattern>
+<filter id="shine" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="4"/></filter>
+<filter id="shadow"><feDropShadow dx="0" dy="5" stdDeviation="6" flood-color="#000" flood-opacity=".8"/></filter>
 </defs>
-<rect width="1280" height="320" fill="url(#bg)"/><rect width="1280" height="320" fill="url(#grid)"/>
-<rect x="1" y="1" width="1278" height="318" fill="none" stroke="#7d759a" stroke-opacity=".32"/>
-<path d="M0 1H1280" stroke="url(#vio)" stroke-width="3"/>
-<path d="M0 316H1280" stroke="url(#vio)" stroke-opacity=".35"/>
-<ellipse cx="1032" cy="150" rx="280" ry="240" fill="url(#glow)"/>
-<path d="M30 41V20H95M1183 20H1250V50M30 273v25h65M1183 298h67v-25" fill="none" stroke="#b7a2ed" opacity=".56" stroke-width="1.5"/>
-<text x="72" y="67" fill="#aca4ce" font-size="12" letter-spacing="5" font-family="Segoe UI,Arial,sans-serif" font-weight="700">INDEPENDENT WINDOWS PLATFORM / HFK</text>
-<text x="66" y="162" fill="#f1efff" font-size="82" font-family="Segoe UI,Arial,sans-serif" font-weight="800" letter-spacing="6">OBSITOOLS</text>
-<text x="72" y="204" fill="#d5cced" font-size="22" font-family="Segoe UI,Arial,sans-serif" letter-spacing="1.6">ONE ENVIRONMENT. MANY WORLDS.</text>
-<path d="M72 230H590" stroke="url(#vio)" stroke-opacity=".8" stroke-width="2"/>
-<text x="72" y="260" fill="#aab2c7" font-size="14" letter-spacing="2.2" font-family="Consolas,monospace">WINDOWS   /   BILL   /   AUDIO   /   AI   /   FORGE</text>
-<g transform="translate(1035 156)">
-<circle r="139" fill="none" stroke="#aba4da" opacity=".20"/><circle r="120" fill="none" stroke="#aa9bdb" opacity=".42" stroke-width="2"/><circle r="96" fill="none" stroke="#c0afe9" opacity=".42" stroke-dasharray="3 8"/>
-<path d="M0 -117L0 -92M0 92V117M-117 0h25M92 0h25" stroke="#eee5ff" opacity=".65" stroke-width="2"/>
-<path d="M0-83C-20-76-27-40-27-29C-67-27-74 0-64 18C-76 43-56 76-15 70L0 79Z" fill="#161229" stroke="url(#vio)" stroke-width="2.5"/>
-<path d="M0-83C29-69 39-43 28-28C77-19 68 23 61 26C70 63 37 82 0 79Z" fill="#111725" stroke="url(#metal)" stroke-width="3"/>
-<path d="M-37 -48L-13 -32V-10M-52 -3L-22 7H-9M-44 37L-23 30H-9" fill="none" stroke="#a88bfd" stroke-width="3" stroke-linecap="round"/>
-<path d="M32 -45L11 -28V-8M51 -2L22 8H9M44 37L20 28H9" fill="none" stroke="#5db9ff" stroke-width="3" stroke-linecap="round"/>
-<g fill="#d9c4ff"><circle cx="-37" cy="-48" r="4"/><circle cx="-52" cy="-3" r="4"/><circle cx="-44" cy="37" r="4"/></g>
-<g fill="#8edbff"><circle cx="32" cy="-45" r="4"/><circle cx="51" cy="-2" r="4"/><circle cx="44" cy="37" r="4"/></g>
-<circle r="24" stroke="#c0b2f3" stroke-width="5" fill="#0b0a19"/><circle r="12" fill="#dcd3ff"/>
-<circle r="39" fill="none" stroke="#a593ec" opacity=".4"/>
-<text x="0" y="117" fill="#e0d7ff" text-anchor="middle" font-size="12" letter-spacing="6" font-weight="700" font-family="Consolas,monospace">BILL</text>
-</g></svg>
+<rect width="1440" height="400" fill="url(#bg)"/><rect width="1440" height="400" fill="url(#grid)"/>
+<path d="M1 1H1439M1 399H1439" stroke="url(#edge)" stroke-width="2"/><path d="M20 38V19H90M1350 19H1420V38M20 358V381H90M1350 381H1420V358" fill="none" stroke="#baa3fd" stroke-opacity=".55" stroke-width="2"/>
+<path d="M34 90H94M34 298H94M1286 90H1404M1286 298H1404" stroke="#6d598e" opacity=".55"/>
+<rect x="57" y="55" width="5" height="5" fill="#aa8ef1"/><text x="79" y="67" fill="#b9a8de" font-family="Consolas,monospace" letter-spacing="4" font-size="14">HFK / INDEPENDENT SOFTWARE</text>
+<path d="M70 93H728" stroke="#4d526f" stroke-opacity=".55"/>
+<text x="69" y="207" fill="url(#chrome)" font-family="Arial Black,Segoe UI,Arial,sans-serif" font-weight="900" letter-spacing="7" font-size="87" filter="url(#shadow)">OBSITOOLS</text>
+<path d="M72 230H745" stroke="url(#edge)" stroke-width="2.5"/>
+<text x="73" y="272" fill="#f0eaff" font-family="Segoe UI,Arial,sans-serif" font-weight="650" font-size="27" letter-spacing="2">WINDOWS. AUDIO. INTELLIGENCE.</text>
+<text x="74" y="311" fill="#b8b9d1" font-family="Consolas,monospace" font-size="15" letter-spacing="2.1">BILL  /  WINDOWS CONTROL  /  AUDIO-STUDIO</text>
+<text x="74" y="343" fill="#82bdda" font-family="Consolas,monospace" font-size="15" letter-spacing="2.1">ATLAS  /  AI-LAB  /  FORGE</text>
+<g transform="translate(1103 201)">
+<circle r="192" fill="url(#halo)"/><circle r="159" fill="none" stroke="#9e88cc" stroke-width="1.2" opacity=".3"/><circle r="147" fill="none" stroke="url(#edge)" stroke-width="2.3" stroke-dasharray="230 34 168 44 126 30" transform="rotate(7)" opacity=".8"/><circle r="121" fill="none" stroke="#a796dd" stroke-width="1.4" stroke-dasharray="2 8" opacity=".55"/><circle r="104" fill="#080a16" stroke="#514c85" stroke-width="1.5"/>
+<path d="M0 -103C-55 -98-84 -51-75-30C-106 -7-91 40-74 46C-65 83-31 99-2 99L0 66Z" fill="#24133f" stroke="#c295ff" stroke-width="2.7"/>
+<path d="M0 -103C54-99 81-58 74-31C106 -11 95 39 74 48C63 79 32 98 0 99L0 66Z" fill="#0b1d39" stroke="#7bd2fd" stroke-width="2.8"/>
+<path d="M-12 -87L-57-38L-43 -3L-75 35L-24 81L-3 58M-68 -53L-33 -46L-16 -12M-74 16L-31 27L-19 49" fill="none" stroke="#9271e2" opacity=".46" stroke-width="1.2"/>
+<path d="M15-87L53 -38L39 -3L72 36L23 79L0 58M67 -53L31 -45L15 -10M73 16L32 28L18 50" fill="none" stroke="#69b9ee" opacity=".44" stroke-width="1.2"/>
+<path d="M-43-63L-19-40V-16M-70 -12L-24 -5M-54 43L-17 28M-37 74L-19 49" stroke="#bf9cff" stroke-width="4" fill="none" stroke-linecap="round"/>
+<path d="M43 -63L19-40V-16M70 -12L24 -5M54 43L17 28M37 74L19 49" stroke="#69caff" stroke-width="4" fill="none" stroke-linecap="round"/>
+<g fill="#e8d8ff"><circle cx="-43" cy="-63" r="5"/><circle cx="-70" cy="-12" r="5"/><circle cx="-54" cy="43" r="5"/><circle cx="-37" cy="74" r="5"/></g>
+<g fill="#b7eeff"><circle cx="43" cy="-63" r="5"/><circle cx="70" cy="-12" r="5"/><circle cx="54" cy="43" r="5"/><circle cx="37" cy="74" r="5"/></g>
+<circle r="44" stroke="#a781ec" stroke-width="2.5" fill="#09091c"/><circle r="35" stroke="#9d78f4" stroke-opacity=".7" stroke-width="2" fill="none"/><circle r="27" fill="url(#core)"/><circle r="10" fill="#f5ecff" filter="url(#shine)"/><circle r="8" fill="#fff"/>
+<text x="0" y="137" fill="#d7d5ff" text-anchor="middle" font-family="Consolas,monospace" font-weight="700" font-size="15" letter-spacing="8">BILL</text>
+</g><text x="1277" y="372" fill="#78849e" font-family="Consolas,monospace" font-size="11" letter-spacing="2.2">2026 / DEV</text></svg>
