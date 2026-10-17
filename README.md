@@ -2,6 +2,8 @@
 
 ![OBSITOOLS — One environment. Many worlds.](media/obsitools-banner.svg)
 
+**BILL · WINDOWS CONTROL · AUDIO-STUDIO · ATLAS · AI-LAB**
+
 <img src="https://obsitools.com/assets/brand/obsitools_emblem_1000.webp" alt="Emblème OBSITOOLS" width="100">
 
 ### Votre environnement Windows. Une intelligence. Plusieurs mondes.
